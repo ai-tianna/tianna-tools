@@ -1,4 +1,4 @@
-# 디테일릿 셀러 도구
+# 티안나 셀러 도구
 
 네이버 스마트스토어 셀러를 위한 AI 자동화 도구입니다.
 
@@ -10,7 +10,7 @@
 
 | 도구 | 하는 일 | 윈도우 | 맥 (Apple Silicon) |
 |---|---|---|---|
-| 문의 답변 도우미 | 상품 문의(Q&A)에 AI 초안을 만들고 검토 후 등록 | [받기](https://github.com/detailit0918/detailit-tools/releases/latest/download/qna-bot-windows.zip) | [받기](https://github.com/detailit0918/detailit-tools/releases/latest/download/qna-bot-mac.zip) |
+| 문의 답변 도우미 | 상품 문의(Q&A)에 AI 초안을 만들고 검토 후 등록 | [받기](https://github.com/ai-tianna/tianna-tools/releases/latest/download/qna-bot-windows.zip) | [받기](https://github.com/ai-tianna/tianna-tools/releases/latest/download/qna-bot-mac.zip) |
 
 톡톡 상담 도우미와 리뷰 답글 도우미는 준비되는 대로 여기에 추가됩니다.
 
@@ -24,7 +24,7 @@
 
 ## 자세한 설명
 
-도구 소개, 비용, 키 받는 방법은 디테일릿 자료 페이지에 정리되어 있습니다.
+도구 소개, 비용, 키 받는 방법은 티안나 자료 페이지에 정리되어 있습니다.
 
 - 자료 페이지: (노션 링크)
 - 인스타그램: [@detailit.ai](https://www.instagram.com/detailit.ai/)
