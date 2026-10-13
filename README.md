@@ -27,6 +27,6 @@
 도구 소개, 비용, 키 받는 방법은 티안나 자료 페이지에 정리되어 있습니다.
 
 - 자료 페이지: (노션 링크)
-- 인스타그램: [@detailit.ai](https://www.instagram.com/detailit.ai/)
+- 인스타그램: [@ai_tianna](https://www.instagram.com/ai_tianna/)
 
 쓰다가 막히는 점이나 바라는 기능이 있으면 인스타그램 DM으로 편하게 알려주세요.
